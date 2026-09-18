@@ -62,7 +62,7 @@ Users are greeted with a sweet request for a hug. If they attempt to decline, th
 ### 💌 Instant URL Personalization
 Customize recipient and sender names directly via URL parameters without modifying code:
 ```text
-index.html?to=YourLove&from=Hxni
+index.html?to=YourLove&from=Shree
 ```
 
 ### ⚡ Offline-Ready & Reliable
@@ -115,7 +115,7 @@ You can personalize the card when sending it to someone special by adding query 
 | Parameter | Description | Default Value | Example |
 | :--- | :--- | :--- | :--- |
 | `to` or `name` | Recipient name on the Love Receipt | `My Favorite Person` | `?to=Angel` |
-| `from` | Sender name on the Love Receipt & Cashier | `Hxni ❤️` | `?from=Hxni` |
+| `from` | Sender name on the Love Receipt & Cashier | `Shree ❤️` | `?from=Shree` |
 
 #### Example Shareable Link:
 ```text
@@ -163,13 +163,11 @@ Contributions, feature ideas, and forks are welcome! Feel free to:
 
 ## 👨‍💻 Author & Credits
 
-**Hxni**
+**Shree**
 
 <p align="left">
-  <a href="https://www.instagram.com/the.cipher.stack/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Hxni786" target="_blank">
+
+  <a href="https://github.com/AMRshree" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Hxni786-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
